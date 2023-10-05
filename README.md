@@ -4,11 +4,11 @@ I am a working professional currently employed at Goldman Sachs. I hold a Bachel
 
 More about me:
 
-- 🔭 I'm an active member of [IvLabs](https://www.ivlabs.in/), a Robotics and AI Research Lab at VNIT, Nagpur. Checkout the interesting projects that my group and I are working on.
-- 💬 I have worked in the field of Mobile Robotics, particularly in the field of Localization, Multiview Geometry, Computer Vision and Sensor Fusion.
-- 😄 I’m currently working on stablizing a [UAV during its transition from an Outdoor Environment to a GPS-denied environment](https://github.com/Kush0301/UAV-Localization) and [Sparse 3D Reconstruction](https://github.com/Kush0301/Structure-from-Motion).
-- :mag: My current research lies in the field of Graph based algorithms for Localization and tightly coupled fusion of an IMU with that of camera providing Visual Odometry.
-- :stars: My goal is to build a fully autonomous robot from scratch.
+- 🔭 
+- 💬 
+- 😄 
+- :mag: 
+- :stars: 
 
 Feel Free to reach me at
 
